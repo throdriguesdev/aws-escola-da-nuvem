@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "format": "YYYY-DD-MM",
+  "folder": "00.00- inbox",
+  "template": "05.01 - templates/daily"
+}

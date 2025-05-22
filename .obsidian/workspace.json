@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "24d7f466dbfeef04",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c37d3f982001de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0356e9bce23bed06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "2a93edeb201a0fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS-AULA-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS-AULA-2"
+            }
+          },
+          {
+            "id": "b52eafa17c4fc199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIMULADO-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SIMULADO-1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b608b7f97423ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4361bc1afc701c17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32400f2bd730b2a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "019c3dcd0cc48153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aws ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "28398b6b91026ae4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f8bae0700d4610d6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "446a23ada2e91378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.00- inbox/2025-10-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-04"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293
+  },
+  "right": {
+    "id": "2af72f7689eb3bb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1561bc7ae3e45b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a2e72560eedc58b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01.04 - AWS Cert/AWS Associate - Study.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AWS Associate - Study"
+            }
+          },
+          {
+            "id": "5a43a64378171452",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01.04 - AWS Cert/AWS Associate - Study.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AWS Associate - Study"
+            }
+          },
+          {
+            "id": "b665e48cebbe4b43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7cda6bedaa66cdc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01.04 - AWS Cert/AWS Associate - Study.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AWS Associate - Study"
+            }
+          },
+          {
+            "id": "af990d84af9059f2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b52eafa17c4fc199",
+  "lastOpenFiles": [
+    "AWS-AULA-2.md",
+    "SIMULADO-1.md",
+    "AWS-AULA-1.1.md",
+    "README.md",
+    "AWS-AULA-1.md",
+    "01.02 - resources-study/Redes AWS.md",
+    "01.02 - resources-study/Otimizacao instancia.md",
+    "rds lista 08-05.md",
+    "s3 access.md",
+    "Pasted image 20250416233345.png",
+    "OWASP.md",
+    "migrati ng.md",
+    "Gato.md",
+    "FORTICLIENT.md",
+    "envws.md",
+    "deepseek.md",
+    "Day 1.md",
+    "AWS SEGURANCA.md",
+    "AWS PALESTRA.md",
+    "05.01 - templates/Untitled.md",
+    "05.01 - templates/daily.md",
+    "05 - archive/token git joana.md",
+    "05 - archive/prompt.md",
+    "05 - archive/monitoring-stack - claude.md",
+    "00.00- inbox/2025-21-05.md",
+    "00.00- inbox/2025-22-05.md",
+    "ESCOLA DA NUVEM/Ed2.md",
+    "Pasted image 20250520201147.png",
+    "Pasted image 20250514195315.png",
+    "Pasted image 20250514195525.png",
+    "Pasted image 20250514195451.png",
+    "Pasted image 20250514195431.png",
+    "Pasted image 20250514195420.png",
+    "Pasted image 20250514195333.png",
+    "Pasted image 20250514195355.png",
+    "Pasted image 20250428154752.png",
+    "ESCOLA DA NUVEM",
+    "01.04 - AWS Cert",
+    "01 - loomi/01.04 - acessos",
+    "Untitled.canvas"
+  ]
+}
