@@ -7,10 +7,10 @@
 
 Uma empresa está considerando migrar sua infraestrutura on-premises para a AWS. Qual dos seguintes é um dos principais benefícios de usar a AWS Cloud?
 
-A) A empresa deve gerenciar toda a infraestrutura física  
+~~A) A empresa deve gerenciar toda a infraestrutura física~~  
 B) A empresa pode converter despesas de capital (CAPEX) em despesas operacionais (OPEX)  
-C) A empresa precisa prever exatamente a capacidade necessária por anos  
-D) A empresa deve manter contratos de longo prazo para todos os serviços
+~~C) A empresa precisa prever exatamente a capacidade necessária por anos~~  
+~~D) A empresa deve manter contratos de longo prazo para todos os serviços~~
 
 
 
@@ -20,10 +20,10 @@ D) A empresa deve manter contratos de longo prazo para todos os serviços
 
 No modelo de responsabilidade compartilhada da AWS, qual das seguintes é uma responsabilidade do CLIENTE?
 
-A) Segurança física dos data centers da AWS  
-B) Aplicação de patches no hypervisor  
-C) Configuração de grupos de segurança  
-D) Manutenção da infraestrutura de rede global
+~~A) Segurança física dos data centers da AWS~~  
+~~B) Aplicação de patches no hypervisor~~  
+**C) Configuração de grupos de segurança**  
+ ~~D) Manutenção da infraestrutura de rede global~~ 
 
 
 ---
@@ -32,9 +32,9 @@ D) Manutenção da infraestrutura de rede global
 
 Qual serviço AWS é MELHOR para hospedar uma aplicação web que precisa de alta disponibilidade e escalabilidade automática?
 
-A) Amazon S3  
-B) Amazon EC2 com Auto Scaling  
-C) Amazon RDS  
+~~A) Amazon S3~~  
+==B) Amazon EC2 MAQUINA VIRTUAL - com Auto Scaling==  
+~~C) Amazon RDS~~  
 D) AWS Lambda
 
 
@@ -46,7 +46,7 @@ D) AWS Lambda
 Qual dos seguintes é um pilar do AWS Well-Architected Framework?
 
 A) Disponibilidade  
-B) Eficiência de Performance  
+**B) Eficiência de Performance**  
 C) Compatibilidade  
 D) Popularidade
 
@@ -58,7 +58,7 @@ D) Popularidade
 Qual serviço AWS fornece proteção contra ataques DDoS (Distributed Denial of Service)?
 
 A) Amazon GuardDuty  
-B) AWS Shield  
+**B) AWS Shield**  
 C) Amazon Inspector  
 D) AWS Config
 
@@ -72,7 +72,7 @@ Uma empresa precisa armazenar grandes quantidades de dados que são acessados ra
 
 A) S3 Standard  
 B) S3 Standard-IA (Infrequent Access)  
-C) S3 Glacier Flexible Retrieval  
+C) **S3 Glacier Flexible Retrieval**  
 D) S3 One Zone-IA
 
 
@@ -84,7 +84,7 @@ D) S3 One Zone-IA
 Qual ferramenta AWS ajuda a monitorar custos e criar alertas quando os gastos excedem limites predefinidos?
 
 A) AWS Cost Explorer  
-B) AWS Budgets  
+==B) AWS Budgets==  
 C) AWS Billing Dashboard  
 D) AWS Trusted Advisor
 
@@ -97,7 +97,7 @@ D) AWS Trusted Advisor
 Qual serviço AWS é um banco de dados NoSQL totalmente gerenciado?
 
 A) Amazon RDS  
-B) Amazon DynamoDB  
+**B) Amazon DynamoDB**  
 C) Amazon Aurora  
 D) Amazon Redshift
 
@@ -110,7 +110,7 @@ D) Amazon Redshift
 Qual é a MELHOR maneira de fornecer acesso temporário a recursos AWS para aplicações que executam em instâncias EC2?
 
 A) Incorporar credenciais AWS no código da aplicação  
-B) Usar roles do IAM  
+**B) Usar roles do IAM**  
 C) Compartilhar chaves de acesso via email  
 D) Criar um usuário IAM permanente para cada aplicação
 
@@ -122,7 +122,7 @@ D) Criar um usuário IAM permanente para cada aplicação
 Qual dos seguintes descreve melhor a "elasticidade" na AWS Cloud?
 
 A) A capacidade de manter dados seguros  
-B) A habilidade de escalar recursos para cima ou para baixo automaticamente baseado na demanda  
+**B) A habilidade de escalar recursos para cima ou para baixo automaticamente baseado na demanda**  
 C) A capacidade de acessar recursos de qualquer localização geográfica  
 D) A habilidade de fazer backup de dados automaticamente
 
@@ -134,7 +134,7 @@ D) A habilidade de fazer backup de dados automaticamente
 Qual serviço AWS é usado para distribuir conteúdo globalmente com baixa latência?
 
 A) Amazon Route 53  
-B) Amazon CloudFront  
+**B) Amazon CloudFront**  
 C) AWS Direct Connect  
 D) Amazon VPC
 
@@ -147,7 +147,7 @@ D) Amazon VPC
 Qual serviço AWS fornece detecção de ameaças e monitoramento contínuo de segurança usando machine learning?
 
 A) AWS CloudTrail  
-B) Amazon GuardDuty  
+**B) Amazon GuardDuty**  
 C) AWS Config  
 D) Amazon Inspector
 
@@ -157,11 +157,11 @@ D) Amazon Inspector
 
 ### **QUESTÃO 13** - Domínio 4: Billing, Pricing e Support (12%)
 
-Qual plano de suporte AWS fornece acesso 24/7 ao suporte técnico via telefone, email e chat?
+Quais plano de suporte AWS fornecem acesso 24/7 ao suporte técnico via telefone, email e chat?
 
 A) Basic  
 B) Developer  
-C) Business  
+**C) Business**  
 D) Enterprise
 
 
@@ -173,8 +173,8 @@ D) Enterprise
 Qual serviço AWS é MELHOR para executar código sem provisionar ou gerenciar servidores?
 
 A) Amazon EC2  
-B) AWS Lambda  
-C) Amazon ECS  
+**B) AWS Lambda**  
+C) Amazon ES  
 D) AWS Batch
 
 
@@ -185,7 +185,7 @@ D) AWS Batch
 
 O que significa "pay-as-you-go" na AWS?
 
-A) Você paga apenas pelos recursos que usar  
+A) **Você paga apenas pelos recursos que usar**  
 B) Você deve pagar antecipadamente por todos os recursos  
 C) Você paga uma taxa fixa mensal independente do uso  
 D) Você só paga se os recursos falharem
@@ -195,10 +195,10 @@ D) Você só paga se os recursos falharem
 
 ### **QUESTÃO 16** - Domínio 2: Segurança e Compliance (30%)
 
-Qual ferramenta AWS fornece recomendações de segurança baseadas em melhores práticas?
+Qual ferramenta AWS fornece recomendações de baseadas em melhores práticas?
 
 A) AWS CloudFormation  
-B) AWS Trusted Advisor  
+**B) AWS Trusted Advisor**  
 C) AWS Systems Manager  
 D) Amazon CloudWatch
 
@@ -212,7 +212,7 @@ Uma empresa quer migrar 50TB de dados para a AWS de forma segura e rápida. Qual
 
 A) AWS Direct Connect  
 B) Amazon S3 Transfer Acceleration  
-C) AWS Snowball  
+**C) AWS Snowball**  
 D) AWS DataSync
 
 
@@ -224,7 +224,7 @@ D) AWS DataSync
 Qual característica do Amazon S3 fornece proteção adicional contra exclusão acidental de objetos?
 
 A) Server-side encryption  
-B) Versioning  
+**B) Versioning**  
 C) Cross-region replication  
 D) Transfer acceleration
 
@@ -236,7 +236,7 @@ D) Transfer acceleration
 
 Qual ferramenta AWS permite visualizar e analisar custos e uso ao longo do tempo?
 
-A) AWS Cost Explorer  
+**A) AWS Cost Explorer**  
 B) AWS Billing Dashboard  
 C) AWS Budgets  
 D) AWS Cost and Usage Report
@@ -250,7 +250,7 @@ D) AWS Cost and Usage Report
 Qual serviço AWS fornece um ambiente de desenvolvimento integrado (IDE) baseado em cloud?
 
 A) AWS CodeCommit  
-B) AWS Cloud9  
+**B) AWS Cloud9**  
 C) AWS CodeBuild  
 D) AWS CodeDeploy
 

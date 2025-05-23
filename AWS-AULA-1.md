@@ -116,7 +116,7 @@ De acordo com o guia oficial do exame AWS Certified Cloud Practitioner (CLF-C02)
     - AWS CloudTrail
     - AWS Trusted Advisor
 - **Integração de Aplicações**
-    - Amazon SNS
+    - Amazon SNS 
     - Amazon SQS
     - AWS Step Functions
 - **Implantação e Gerenciamento**
