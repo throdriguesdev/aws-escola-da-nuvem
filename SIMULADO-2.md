@@ -107,72 +107,116 @@ C) Amazon VPC
 D) AWS Transit Gateway
 
 ---
-QUESTÃO 31
+
+
+---
+
+### **QUESTÃO 31**
+
 Qual é o principal benefício de usar múltiplas Availability Zones (AZs) na AWS?
-A) Reduzir custos de computação
-B) Aumentar a alta disponibilidade e tolerância a falhas
-C) Melhorar a performance de rede
+
+A) Reduzir custos de computação  
+B) Aumentar a alta disponibilidade e tolerância a falhas  
+C) Melhorar a performance de rede  
 D) Facilitar o gerenciamento de usuários
 
-QUESTÃO 32
+---
+
+### **QUESTÃO 32**
+
 Qual serviço AWS é usado para criar e gerenciar certificados SSL/TLS?
-A) AWS Certificate Manager (ACM)
-B) AWS Secrets Manager
-C) AWS KMS
+
+A) AWS Certificate Manager (ACM)  
+B) AWS Secrets Manager  
+C) AWS KMS  
 D) AWS IAM
 
-QUESTÃO 33
+---
+
+### **QUESTÃO 33**
+
 Uma empresa precisa de um serviço de mensageria que garanta entrega de mensagens pelo menos uma vez. Qual serviço AWS atende essa necessidade?
-A) Amazon SNS
-B) Amazon SQS
-C) Amazon SES
+
+A) Amazon SNS  
+B) Amazon SQS  
+C) Amazon SES  
 D) AWS Step Functions
 
-QUESTÃO 34
+---
+
+### **QUESTÃO 34**
+
 Qual das seguintes é uma característica do modelo de preços sob demanda (On-Demand) do Amazon EC2?
-A) Requer compromisso de uso por 1 ano
-B) Oferece o menor preço por hora
-C) Não requer compromisso de longo prazo
+
+A) Requer compromisso de uso por 1 ano  
+B) Oferece o menor preço por hora  
+C) Não requer compromisso de longo prazo  
 D) Só está disponível para instâncias pequenas
 
-QUESTÃO 35
+---
+
+### **QUESTÃO 35**
+
 Qual serviço AWS fornece análise de logs e métricas em tempo real?
-A) AWS CloudFormation
-B) Amazon CloudWatch Logs
-C) AWS Config
+
+A) AWS CloudFormation  
+B) Amazon CloudWatch Logs  
+C) AWS Config  
 D) AWS Systems Manager
 
-QUESTÃO 36
+---
+
+### **QUESTÃO 36**
+
 Uma aplicação precisa de um banco de dados que suporte transações ACID e consultas SQL complexas. Qual opção é mais apropriada?
-A) Amazon DynamoDB
-B) Amazon RDS
-C) Amazon S3
+
+A) Amazon DynamoDB  
+B) Amazon RDS  
+C) Amazon S3  
 D) Amazon ElastiCache
 
-QUESTÃO 37
+---
+
+### **QUESTÃO 37**
+
 Qual ferramenta AWS ajuda a estimar custos de migração para a nuvem?
-A) AWS Pricing Calculator
-B) AWS Cost Explorer
-C) AWS Budgets
+
+A) AWS Pricing Calculator  
+B) AWS Cost Explorer  
+C) AWS Budgets  
 D) AWS Total Cost of Ownership (TCO) Calculator
 
-QUESTÃO 38
+---
+
+### **QUESTÃO 38**
+
 Qual serviço AWS permite criar workflows automatizados conectando diferentes serviços?
-A) AWS Lambda
-B) AWS Step Functions
-C) Amazon SQS
+
+A) AWS Lambda  
+B) AWS Step Functions  
+C) Amazon SQS  
 D) AWS Batch
 
-QUESTÃO 39
+---
+
+### **QUESTÃO 39**
+
 No contexto de disaster recovery, qual estratégia oferece o menor Recovery Time Objective (RTO)?
-A) Backup and Restore
-B) Pilot Light
-C) Warm Standby
+
+A) Backup and Restore  
+B) Pilot Light  
+C) Warm Standby  
 D) Multi-site Active/Active
 
-QUESTÃO 40
+---
+
+### **QUESTÃO 40**
+
 Qual serviço AWS é usado para acelerar transferências de arquivos para o Amazon S3?
-A) Amazon CloudFront
-B) AWS Direct Connect
-C) S3 Transfer Acceleration
+
+A) Amazon CloudFront  
+B) AWS Direct Connect  
+C) S3 Transfer Acceleration  
 D) AWS Global Accelerator
+
+
